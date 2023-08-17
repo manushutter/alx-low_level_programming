@@ -1,3 +1,5 @@
+#include <stdlib.h>
+#include <time.h>
 /**
  * main - Prints the lst digit of rendomly generated number
  *
