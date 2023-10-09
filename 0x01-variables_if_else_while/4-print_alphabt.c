@@ -1,12 +1,13 @@
 #include <stdio.h>
-/* main prints alphabet in lowercase
+
+/* main - Prints alphabet in lowercase
  *
  * Return: Always 0 (Success)
  */
 int main(void)
 {
 	char letter = 'a';
-	
+
 	while (letter <= 'z')
 	{
 		if (letter != 'q' && letter != 'e')
