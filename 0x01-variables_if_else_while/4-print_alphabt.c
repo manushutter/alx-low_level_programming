@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 /*
+ * main - Entru point
+ *
  * Return: Always 0 (Success)
  */
 int main(void)
