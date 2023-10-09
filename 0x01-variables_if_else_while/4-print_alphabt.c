@@ -6,6 +6,7 @@
  * Return: Always 0 (Success)
  */
 int main(void)
+	// This program prints the lowercase alphabet excluding 'q' and 'e', followed by a newline.
 {
 	char letter = 'a';
 
