@@ -1,23 +1,26 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-
 /**
- *main - Entry point
+ *main - prints the alphabet withou q and e.
  *
- * Return: Always 0
- */
-int main(void)
-{
-	int i;
+ * Return: Always 0 (success)
+ * */
 
-	for (i = 97; i < 123; i++)
-	{
-		if (i != 101 && i != 113)
-		{
-			putchar(i);
-		}
-	}
-	putchar('\n');
-	return (0);
+int main() {
+    char lowercase = 'a';
+    char uppercase = 'A';
+
+    while (lowercase <= 'z') {
+        putchar(lowercase);
+        lowercase++;
+    }
+
+    while (uppercase <= 'Z') {
+        putchar(uppercase);
+        uppercase++;
+    }
+
+    putchar('\n');
+
+    return 0;
 }
+
