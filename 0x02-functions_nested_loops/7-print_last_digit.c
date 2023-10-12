@@ -2,7 +2,7 @@
 /**
  * print_last_digit - prints the last digit of a number
  *
- * @n - int to be checked
+ * @n: is the int to be checked
  *
  * Return: 1 success
  */
