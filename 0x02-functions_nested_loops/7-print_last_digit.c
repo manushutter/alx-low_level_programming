@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_last_digit - prints the last digit of a number
+ * print_last_digit - prints tfhe last digit of a number
  *
  * @n: is the int to be checked
  *
