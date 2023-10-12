@@ -6,19 +6,12 @@
  */
 int _islower(int c)
 {
-	char letter = 'a';
-
-	while (letter <= 'z')
+	if (c >= 97 && c <= 122)
 	{
-		_putchar(letter);
-		letter++;
-		if(c = 'c')
-		{
-			return (1);
-		}
-		else
-		{
-			return (0);
-		}
+		return (1);
+	}
+	else
+	{
+		return (0);
 	}
 }
