@@ -1,8 +1,8 @@
 #include "main.h"
 /*
- * main - Entry point
- *
- * Return: Always 0 (Success)
+ * main - pritn _putchar
+ *is written by mbah
+ * Return: 0
  */
 int main(void)
 {
