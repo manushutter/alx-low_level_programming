@@ -2,9 +2,9 @@
 /**
  * int _islower - finds a lowercase
  *
- * int c parameter for return value interger
+ * @c: is the interger to be checked
  *
- * Return 1 if lowercase and 0 otherwise
+ * Return: 1 if lowercase and 0 otherwise
  */
 int _islower(int c)
 {
