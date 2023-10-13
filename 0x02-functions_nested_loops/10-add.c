@@ -2,7 +2,9 @@
 /**
  * add - adds two integers
  *
- * @x and @y: ints to be added
+ * @x: int to be added
+ *
+ * @y: int to be added
  *
  * Return: 0 success
  */
