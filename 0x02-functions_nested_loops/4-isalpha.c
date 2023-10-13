@@ -1,12 +1,10 @@
 #include "main.h"
 /**
- * int _isalpha(int c) - checks for alphabetic character
+ * _isalpha - checks for alphabetic character
  *
- * int c - interger parameter
+ * @c: int to be checked
  *
- * Return: 1 ifc is letter
- *
- * Return: 0 otherwise
+ * Return: 1 if letter 0 otherwise
  */
 int _isalpha(int c)
 {
