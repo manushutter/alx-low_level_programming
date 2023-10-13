@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * int _islower - finds a lowercase
+ * _islower - finds a lowercase
  *
  * @c: is the interger to be checked
  *
