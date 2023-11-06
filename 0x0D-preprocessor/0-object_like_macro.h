@@ -1,6 +1,6 @@
-#ifndef HEADER_H
-#define HEADER_H
+#ifndef 0_OBJECT_LIKE_MACRO_H
+#define 0_OBJECT_LIKE_H
 
 #define SIZE 1024
 
-#endif // HEADER_H
+#endif // 0_OBJECT_LIKE_MACRO_H
