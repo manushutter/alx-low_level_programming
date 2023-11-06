@@ -3,4 +3,4 @@
 
 #define SIZE 1024
 
-#endif
+#endif /* O_OBJECT_LIKKE_MACRO_H */
